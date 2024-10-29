@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    width: 200px;
+    height: 75px;
+    background-color: rgb(66, 66, 230);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
